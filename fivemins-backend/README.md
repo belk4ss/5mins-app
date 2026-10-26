@@ -19,7 +19,6 @@ Pour changer son emplacement, définis la variable `DB_URL`, par exemple `jdbc:s
 - Email : `admin@5mins.app`
 - Mot de passe : `admin123`
 
-Change ce mot de passe avant tout déploiement réel. La clé JWT peut être configurée avec la variable d'environnement `JWT_SECRET`.
 
 ## Fonctionnalités techniques
 - Authentification par JWT et mots de passe hachés avec BCrypt.
